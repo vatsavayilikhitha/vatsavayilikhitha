@@ -74,44 +74,6 @@ Currently leveling up in **Java** and **Data Structures & Algorithms** to become
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=vatsavayilikhitha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&border_radius=12" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsavayilikhitha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&border_radius=12" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vatsavayilikhitha&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=ffffff&dates=888888&border_radius=12" width="500"/>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Graph
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsavayilikhitha/vatsavayilikhitha/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsavayilikhitha/vatsavayilikhitha/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vatsavayilikhitha/vatsavayilikhitha/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   VISITOR COUNTER                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -134,8 +96,18 @@ Currently leveling up in **Java** and **Data Structures & Algorithms** to become
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-vatsavayilikhitha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vatsavayilikhitha)
+
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsavayilikhitha)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhitha-vatsavayi-9839b539b)
+
+&nbsp;
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://vatsavayilikhitha.github.io/FUTURE_FS_01/)
+
+&nbsp;
+
+[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vatsavayilikhitha@gmail.com)
 
 <br/>
 
