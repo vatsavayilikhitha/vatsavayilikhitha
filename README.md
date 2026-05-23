@@ -10,49 +10,40 @@
 
 ## 👋 Hey there, I'm Likhitha!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=500&lines=Frontend+Developer+%F0%9F%9A%80;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Java+Programmer+%E2%98%95;Learning+DSA+%F0%9F%A7%A0;Building+Modern+Websites+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=500&lines=Frontend+Developer+🚀;React+Enthusiast+⚛️;Java+Programmer+☕;Learning+DSA+🧠;Building+Modern+Websites+🌐)](https://git.io/typing-svg)
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 </div>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate **Frontend Developer** who loves crafting pixel-perfect, high-performance web experiences. My focus is on building modern, responsive interfaces that feel as great as they look — blending clean code with creative design.
+I'm a passionate **Frontend Developer** who loves crafting modern, responsive, and visually appealing web experiences. I enjoy blending creativity with clean code to build interfaces that feel smooth and engaging.
 
-Currently leveling up in **Java** and **Data Structures & Algorithms** to become a more well-rounded engineer — because great developers never stop learning.
+Currently improving my skills in **Java** and **Data Structures & Algorithms** while continuously exploring the world of modern web development.
 
 <br/>
 
-- 🎨 &nbsp; Obsessed with clean UI and modern aesthetics
-- ⚛️ &nbsp; Currently building projects with **React**
-- ☕ &nbsp; Exploring **Java** and sharpening **DSA** skills daily
-- 🌐 &nbsp; Passionate about crafting websites that leave an impression
-- 💡 &nbsp; Always experimenting, always improving
-- 🎯 &nbsp; Goal: Ship impactful products that solve real problems
-- ⚡ &nbsp; Fun fact: I debug with coffee and determination
+- 🎨 Obsessed with clean UI and modern aesthetics  
+- ⚛️ Building projects using **React**  
+- ☕ Learning **Java** and improving **DSA** skills  
+- 🌐 Passionate about responsive and interactive websites  
+- 💡 Always learning and experimenting with new ideas  
+- 🎯 Goal: Become a professional full-stack developer  
 
-<br/><br/><br/>
+<br/><br/>
 
 ---
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TECH STACK                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🛠️ Tech Stack & Tools
 
 <br/>
 
-**Languages & Frameworks**
+### 💻 Languages & Frameworks
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -62,7 +53,7 @@ Currently leveling up in **Java** and **Data Structures & Algorithms** to become
 
 <br/>
 
-**Tools & Platforms**
+### ⚙️ Tools & Platforms
 
 ![DSA](https://img.shields.io/badge/DSA-A855F7?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -72,10 +63,6 @@ Currently leveling up in **Java** and **Data Structures & Algorithms** to become
 <br/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   VISITOR COUNTER                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 👀 Profile Views
 
@@ -87,29 +74,33 @@ Currently leveling up in **Java** and **Data Structures & Algorithms** to become
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONNECT WITH ME                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🤝 Connect With Me
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-vatsavayilikhitha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vatsavayilikhitha)
+<a href="https://github.com/vatsavayilikhitha">
+  <img src="https://img.shields.io/badge/GitHub-vatsavayilikhitha-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhitha-vatsavayi-9839b539b)
+<a href="https://www.linkedin.com/in/likhitha-vatsavayi-9839b539b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 &nbsp;
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://vatsavayilikhitha.github.io/FUTURE_FS_01/)
+<a href="https://vatsavayilikhitha.github.io/FUTURE_FS_01/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
 &nbsp;
 
-[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vatsavayilikhitha@gmail.com)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vatsavayilikhitha@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
 > 💬 *"Great interfaces are built at the intersection of code and creativity."*
 
@@ -123,6 +114,8 @@ Currently leveling up in **Java** and **Data Structures & Algorithms** to become
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-**Crafted with 💜 by Vatsavayi Likhitha — Open to Frontend Opportunities!**
+### 💜 Crafted by Vatsavayi Likhitha
+
+✨ Open to Frontend Development Opportunities ✨
 
 </div>
